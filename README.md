@@ -1,10 +1,10 @@
 
-# daam
+# Daam
 a product price comparsion tool that lets user compare price of a product across websites
 
-## Link
+## Demo
 
-https://daam-mqjd.onrender.com/
+**Live Demo**: https://daam-mqjd.onrender.com/
 
 ## Features 
 - get a list of prices of a product across multiple websites with the product
